@@ -18,12 +18,9 @@
 
 
 <a href="#">
-
-![okpyo12's GitHub stats](https://github-readme-stats.vercel.app/api?username=okpyo12&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=okpyo12&theme=radical&show_icons=true" height="180px">
 </a>
-
 <a href="#">
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okpyo12&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px">
 </a>
 <br />
@@ -36,7 +33,7 @@
   </p>
 <br/>
 
-### Solved.ac Tier
+## Solved.ac Tier
 <p align="center">
   <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=okpyo11&cache=c">
 </p>
