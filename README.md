@@ -17,11 +17,15 @@
 
 
 
-<div align = center>
+<a href="#">
 
 ![okpyo12's GitHub stats](https://github-readme-stats.vercel.app/api?username=okpyo12&show_icons=true&theme=radical)
+</a>
 
-</div>
+<a href="#">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okpyo12&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px">
+</a>
 <br />
 
 <h2 align="center"><b> ☎ Conttact ☎ </b></h2>
@@ -32,6 +36,11 @@
   </p>
 <br/>
 
+### Solved.ac Tier
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=okpyo11&cache=c">
+</p>
+    
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fokpyo12&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>&nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/okpyo12?style=social">
