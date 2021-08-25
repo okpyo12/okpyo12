@@ -33,7 +33,7 @@
   </p>
 <br/>
 
-## Solved.ac Tier
+<h3 align="center"><b> ☎ Conttact ☎ </b></h3>
 <p align="center">
   <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=okpyo11&cache=c">
 </p>
