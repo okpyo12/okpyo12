@@ -36,10 +36,9 @@
 <br/>
 
 <h3 align="center"><b> Solved.ac Tier </b></h3>
-
+<p align="center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=okpyo11)](https://solved.ac/okpyo11/)   
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=myoungji)](https://solved.ac/myoungji)
+</p>
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fokpyo12&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>&nbsp;&nbsp;
