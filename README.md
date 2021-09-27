@@ -37,7 +37,7 @@
 
 <h3 align="center"><b> Solved.ac Tier </b></h3>
 <p align="center">
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=okpyo11)](https://solved.ac/okpyo11)
+ [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=okpyo11)](https://solved.ac/okpyo11)
 </p>
     
 <p align="center">
