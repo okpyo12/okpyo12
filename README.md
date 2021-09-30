@@ -32,6 +32,7 @@
 <p align="center">
   <a href="mailto:psw94025437@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>&nbsp&nbsp
   <a href="https://www.instagram.com/okpyo11/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>
+  <a href="https://velog.io/@hello_okpyo12"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
   </p>
 <br/>
 
