@@ -21,7 +21,7 @@
 
 
 <a href="#">
-<img src = https://github-readme-stats.vercel.app/api?username=okpyo12&show_icons=true&theme=radical height = "180px" width = "50%">
+<img src = https://github-readme-stats.vercel.app/api?username=okpyo12&show_icons=true&theme=radical height = "180px" width = "50%"> &nbsp&nbsp
 </a>
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okpyo12&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px" width = "40%">
