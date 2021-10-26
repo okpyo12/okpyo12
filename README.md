@@ -2,7 +2,7 @@
 
 
 <h2 align="center"><b> 🛠 Stacks 🛠 </b></h2>
-<h4 align="center"><b> Stacks that I've used at least once </b><h4>
+<h4 align="center">Stacks that I've used at least once <h4>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> &nbsp;
