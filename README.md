@@ -28,7 +28,7 @@
 </a>
 <br />
 
-<h2 align="center"><b> ☎ Conttact ☎ </b></h2>
+<h2 align="center"><b> ☎ Contact ☎ </b></h2>
 
 <p align="center">
   <a href="mailto:psw94025437@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>&nbsp&nbsp
