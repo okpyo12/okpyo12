@@ -2,7 +2,6 @@
 
 ### Hi there 👋
 
-
 <h2 align="center"><b> 🛠 Stacks 🛠 </b></h2>
 <h4 align="center">Stacks that I've used at least once <h4>
 <p align="center">
@@ -20,8 +19,6 @@
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry%20Pi&logoColor=white"/> <p/>
 <br />
 
-
-
 <a href="#">
 <img src = https://github-readme-stats.vercel.app/api?username=okpyo12&show_icons=true&theme=radical height = "180px" width = "50%"> &nbsp
 </a>
@@ -35,14 +32,14 @@
 <p align="center">
   <a href="mailto:psw94025437@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>&nbsp&nbsp
   <a href="https://www.instagram.com/okpyo11/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp&nbsp
-  <a href="https://velog.io/@okpyo12"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
+  <a href="https://velog.io/@okpyo12"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>&nbsp&nbsp
+  <a href="https://okpyo11.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
   </p>
 <br/>
 
 <h3 align="center"><b> Solved.ac Tier </b></h3>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=okpyo11)](https://solved.ac/okpyo11/)
-
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fokpyo12&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>&nbsp;&nbsp;
