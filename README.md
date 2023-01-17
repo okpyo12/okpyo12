@@ -12,11 +12,12 @@
 <br /> <br />  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <br /> <br />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry%20Pi&logoColor=white"/> <p/>
+<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry%20Pi&logoColor=#6DB33F"/> <p/>
 <br />
 
 <a href="#">
